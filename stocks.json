@@ -2,13 +2,13 @@
     {
         "name": "Pochette format livre de poche - champêtre  denim délavé  - n°1",
         "price": 12.00,
-        "images": ["Image 1.jpg", "Image 1_1.jpg"],
+        "images": ["https://ibb.co/MVFfCNX", "https://ibb.co/NCKnk4X"],
         "stock": 1
     },
     {
         "name": "Pochette livre de poche - champêtre bleu clair bleu petit pois - n°2",
         "price": 12.00,
-        "images": ["Image 2.jpg", "Image 2_1.jpg", "Image 2_2.jpg"],
+        "images": ["https://ibb.co/HC36sQZ", "Image 2_1.jpg", "Image 2_2.jpg"],
         "stock": 1
     },
     {
