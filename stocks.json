@@ -189,7 +189,7 @@
         "name": "Foulard léopard rose 75cm* 75cm",
         "price": 35.00,
         "images": ["Image 32.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Foulard léopard rose claire carré 75cm* 75cm",
@@ -213,7 +213,7 @@
         "name": "Protège passeport liberty rouge",
         "price": 12.00,
         "images": ["Image 36.jpg","Image 36_1.jpg"],
-        "stock": 2
+        "stock": 1
     },
     {
         "name": "Protège passeport champêtre  denim délavé ",
