@@ -3,13 +3,13 @@
         "name": "Pochette format livre de poche - champêtre  denim délavé  - n°1",
         "price": 12.00,
         "images": ["Image 1.jpg", "Image 1_1.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Pochette livre de poche - champêtre bleu clair bleu petit pois - n°2",
         "price": 12.00,
         "images": ["Image 2.jpg", "Image 2_1.jpg", "Image 2_2.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Pochette livre de poche - champêtre  denim délavé  - n°3",
@@ -39,13 +39,13 @@
         "name": "Pochette à volant 30*21cm - champêtre  denim délavé  - n°7",
         "price": 20.00,
         "images": ["Image 7.jpg", "Image 7_1.jpg", "Image 7_2.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Porte monnaie à volant ou range bijoux 18*11cm",
         "price": 12.00,
         "images": ["Image 8.jpg", "Image 8_1.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Pochette à volant 30*21cm - champêtre bleu clair bleu - n°9 ",
@@ -75,7 +75,7 @@
         "name": "Petite pochette matelassée fleuri range bijoux 10*9cm",
         "price": 8.00,
         "images": ["Image 13.jpg", "Image 13_1.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Petite pochette bleu clair range bijoux 10*8cm",
@@ -195,7 +195,7 @@
         "name": "Foulard léopard rose claire carré 75cm* 75cm",
         "price": 35.00,
         "images": ["Image 33.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Foulard format Triangle 1,20*75cm*75cm",
@@ -207,7 +207,7 @@
         "name": "Protège passeport bleu clair",
         "price": 12.00,
         "images": ["Image 35.jpg","Image 35_1.jpg"],
-        "stock": 4
+        "stock": 2
     },
     {
         "name": "Protège passeport liberty rouge",
@@ -219,7 +219,7 @@
         "name": "Protège passeport champêtre  denim délavé ",
         "price": 12.00,
         "images": ["Image 37.jpg","Image 37_1.jpg"],
-        "stock": 3
+        "stock": 1
     }
 
 ]
