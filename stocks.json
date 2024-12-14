@@ -33,7 +33,7 @@
         "name": "Pochette livre de poche - champêtre bleu clair bleu - n°6 ",
         "price": 12.00,
         "images": ["Image 6.jpg", "Image 6_1.jpg", "Image 6_2.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Pochette à volant 30*21cm - champêtre  denim délavé  - n°7",
@@ -129,7 +129,7 @@
         "name": "Grande Banane rose intérieur fleuri 41*22cm ",
         "price": 30.00,
         "images": ["Image 22.jpg","Image 22_1.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Banane  rose intérieur fleuri 38*18cm + pochette 12*17cm",
@@ -153,7 +153,7 @@
         "name": "Sac bowling velours bleu intérieur rayé",
         "price": 35.00,
         "images": ["Image 26.jpg","Image 26_1.jpg"],
-        "stock": 1
+        "stock": 0
     },
     {
         "name": "Doudou plat forme lapin 48*34cm",
